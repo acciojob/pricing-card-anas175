@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.main{
+	padding: 30px; 
+	background-color: #f1f1f1; 
+	width: 400px; 
+	margin: auto;
+}
+.btn{
+	background-color: #fe625a;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    padding: 15px;
+}
